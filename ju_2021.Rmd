@@ -36,36 +36,41 @@ style_duo_accent(
 )
 ```
 
-# Feliz dia de seu nome!  🎉
 
 
 
 
 .pull-left[
+<div class="card text-dark bg-light mb-3" style="width: 25rem;">
+  <div class="card-body">
+<h2> Feliz aniversário! 🎉🥳</h2> 
 
-Oi Julio! Feliz aniversário! 🥳
+Oi Julio!<br>
 
-Infelizmente esse ano não é possível comemorar pessoalmente, então envio com muito carinho este cartão.
-
-
-
-Neste seu aniversário, desejo todas as coisas boas pra você. 🎈🎂🥳
-
-Que você tenha muita felicidade, saúde, paz, amor, vacina 💉 e muitos anos de vida para explorar novos pacotes, assistir muitas coisas nerds, e aproveitar muito com as pessoas que você ama.
+Infelizmente neste ano não podemos comemorar pessoalmente, então envio com muito carinho este cartão.
+<br>
 
 
-Você é uma pessoa muito especial, e é um grande privilégio ter na minha vida alguém que eu admiro e me inspira tanto! ❤️
+Neste seu aniversário, desejo todas as coisas boas pra você. 🎈🎂🥳<br>
+
+Que você tenha muita felicidade, saúde, paz, amor, vacina 💉 e muitos anos de vida para explorar novos pacotes, assistir muitas coisas nerds, e aproveitar muito com as pessoas que você ama.<br>
+
+
+Você é uma pessoa muito especial, e é um grande privilégio ter na minha vida alguém que eu admiro e me inspira tanto! ❤️<br>
 
 .right[
 
 De: Bea. Para: Jubs, 01 de abril de 2021]
+
+  </div>
+</div>
 ]
 
 
 .pull-right[
 
 
-<br> <br> <br><br> <br> <br><br> <br> 
+<br> <br> <br><br> <br> <br><br>  
 
 
 
@@ -76,7 +81,7 @@ De: Bea. Para: Jubs, 01 de abril de 2021]
 <div class="biscoito-360-rotate biscoito-360-right"></div>
 
 
-
+<br> <br> 
 <div class="card text-dark bg-light mb-3" style="width: 25rem;">
   <div class="card-body">
     <h5 class="card-title">Presente: VALE BISCOITO</h5>

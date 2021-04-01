@@ -28,3 +28,14 @@
 p {
   font-size: 1.0rem;
 }
+
+
+.remark-slide-number {
+  display: none;
+}
+
+.remark-slide-content {
+  background-image: url(https://github.com/beatrizmilz/RStudio_Certification/blob/main/docs/img/HexFabric.jpg?raw=true);
+    background-size: cover;
+    background-color: #FFFFFF;
+}
